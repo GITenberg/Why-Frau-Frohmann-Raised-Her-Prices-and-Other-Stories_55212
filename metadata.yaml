@@ -1,0 +1,29 @@
+_repo: Why-Frau-Frohmann-Raised-Her-Prices-and-Other-Stories_55212
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: ''
+gutenberg_issued: '2017-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55212'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcsh 'English fiction -- 19th century'
+- !lcsh 'Manners and customs -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Why Frau Frohmann raised her prices -- The lady of Launay -- Christmas
+  at Thompson Hall -- The telegraph girl -- Alice Dugdale.
+title: Why Frau Frohmann Raised Her Prices, and Other Stories
+url: http://www.gutenberg.org/ebooks/55212
