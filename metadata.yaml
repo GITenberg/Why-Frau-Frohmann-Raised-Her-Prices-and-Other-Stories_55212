@@ -1,5 +1,8 @@
 _repo: Why-Frau-Frohmann-Raised-Her-Prices-and-Other-Stories_55212
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55212-h/images/cover.jpg
 creator:
   author:
     agent_name: Trollope, Anthony
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/324
     wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55212#Why-Frau-Frohmann-Raised-Her-Prices-and-Other-Stories
 gutenberg_issued: '2017-07-28'
 gutenberg_type: Text
 identifiers:
